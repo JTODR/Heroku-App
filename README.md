@@ -1,2 +1,2 @@
 # Heroku-App
-Web app made in Python and is deployed to Heroku.
+Web app made in Python and deployed to Heroku.
